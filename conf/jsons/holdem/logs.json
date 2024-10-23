@@ -1,0 +1,501 @@
+[ {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System Uptime : 0",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:42.877 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System is : iGameSuitActorSystem",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:42.877 IST"
+}, {
+  "logType" : "error",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Actor Start",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:42.643 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Configuration InitialData(221002,1,AutomatedRoulette,RouletteGameData(Group(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0),List(),List(),List(),List(),List()),automatedRoulette,221002)",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:42.642 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Limits TableLimit(List(Chip(cyan,10,http://192.168.1.5:3000/assets/CustomAssets/chips/default_cyan.png,false), Chip(red,20,http://192.168.1.5:3000/assets/CustomAssets/chips/default_red.png,false), Chip(violet,50,http://192.168.1.5:3000/assets/CustomAssets/chips/default_violet.png,false), Chip(bordeaux,200,http://192.168.1.5:3000/assets/CustomAssets/chips/default_bordeaux.png,false), Chip(green,1000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_green.png,false), Chip(yellow,5000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_yellow.png,false), Chip(black,20000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_black.png,false)),10,200000,100,200,10,10000,10,20000,10,30000,10,40000,10,60000,100,120000,100,200000)",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:42.641 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Service is being Initialized",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:42.638 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System Uptime : 0",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:42.638 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System is : iGameSuitActorSystem",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:42.638 IST"
+}, {
+  "logType" : "error",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Actor Start",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:06.473 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Configuration InitialData(221002,1,AutomatedRoulette,RouletteGameData(Group(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0),List(),List(),List(),List(),List()),automatedRoulette,221002)",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:06.471 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Limits TableLimit(List(Chip(cyan,10,http://192.168.1.5:3000/assets/CustomAssets/chips/default_cyan.png,false), Chip(red,20,http://192.168.1.5:3000/assets/CustomAssets/chips/default_red.png,false), Chip(violet,50,http://192.168.1.5:3000/assets/CustomAssets/chips/default_violet.png,false), Chip(bordeaux,200,http://192.168.1.5:3000/assets/CustomAssets/chips/default_bordeaux.png,false), Chip(green,1000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_green.png,false), Chip(yellow,5000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_yellow.png,false), Chip(black,20000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_black.png,false)),10,200000,100,200,10,10000,10,20000,10,30000,10,40000,10,60000,100,120000,100,200000)",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:06.471 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Service is being Initialized",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:06.468 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System Uptime : 0",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:06.468 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System is : iGameSuitActorSystem",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:06.468 IST"
+}, {
+  "logType" : "error",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Actor Start",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:06.278 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Configuration InitialData(221002,1,AutomatedRoulette,RouletteGameData(Group(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0),List(),List(),List(),List(),List()),automatedRoulette,221002)",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:06.277 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Limits TableLimit(List(Chip(cyan,10,http://192.168.1.5:3000/assets/CustomAssets/chips/default_cyan.png,false), Chip(red,20,http://192.168.1.5:3000/assets/CustomAssets/chips/default_red.png,false), Chip(violet,50,http://192.168.1.5:3000/assets/CustomAssets/chips/default_violet.png,false), Chip(bordeaux,200,http://192.168.1.5:3000/assets/CustomAssets/chips/default_bordeaux.png,false), Chip(green,1000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_green.png,false), Chip(yellow,5000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_yellow.png,false), Chip(black,20000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_black.png,false)),10,200000,100,200,10,10000,10,20000,10,30000,10,40000,10,60000,100,120000,100,200000)",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:06.274 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Service is being Initialized",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:06.271 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System Uptime : 0",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:06.271 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System is : iGameSuitActorSystem",
+  "timestamp" : "Thu, 09 Jun 2022 15:51:06.271 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "History UpdatedList((0,0), (1,0), (2,0), (3,0), (4,0), (5,0), (6,0), (8,0), (9,0), (10,0), (11,0), (12,0), (13,0), (14,0), (15,0), (16,0), (17,0), (18,0), (19,0), (20,0), (21,0), (22,0), (23,0), (24,0), (25,0), (26,0), (27,0), (28,0), (29,0), (30,0), (31,0), (32,0), (33,0), (34,0), (35,0), (36,0), (7,1))",
+  "timestamp" : "Thu, 09 Jun 2022 15:50:35.897 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Winning Number Detected7",
+  "timestamp" : "Thu, 09 Jun 2022 15:50:35.892 IST"
+}, {
+  "logType" : "error",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Actor Start",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:53.054 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Configuration InitialData(221002,1,AutomatedRoulette,RouletteGameData(Group(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0),List(),List(),List(),List(),List()),automatedRoulette,221002)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:53.053 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Limits TableLimit(List(Chip(cyan,10,http://192.168.1.5:3000/assets/CustomAssets/chips/default_cyan.png,false), Chip(red,20,http://192.168.1.5:3000/assets/CustomAssets/chips/default_red.png,false), Chip(violet,50,http://192.168.1.5:3000/assets/CustomAssets/chips/default_violet.png,false), Chip(bordeaux,200,http://192.168.1.5:3000/assets/CustomAssets/chips/default_bordeaux.png,false), Chip(green,1000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_green.png,false), Chip(yellow,5000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_yellow.png,false), Chip(black,20000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_black.png,false)),10,200000,100,200,10,10000,10,20000,10,30000,10,40000,10,60000,100,120000,100,200000)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:53.053 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Service is being Initialized",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:53.052 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System Uptime : 0",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:53.052 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System is : iGameSuitActorSystem",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:53.052 IST"
+}, {
+  "logType" : "error",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Actor Start",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.773 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Configuration InitialData(221002,1,AutomatedRoulette,RouletteGameData(Group(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0),List(),List(),List(),List(),List()),automatedRoulette,221002)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.773 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Limits TableLimit(List(Chip(cyan,10,http://192.168.1.5:3000/assets/CustomAssets/chips/default_cyan.png,false), Chip(red,20,http://192.168.1.5:3000/assets/CustomAssets/chips/default_red.png,false), Chip(violet,50,http://192.168.1.5:3000/assets/CustomAssets/chips/default_violet.png,false), Chip(bordeaux,200,http://192.168.1.5:3000/assets/CustomAssets/chips/default_bordeaux.png,false), Chip(green,1000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_green.png,false), Chip(yellow,5000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_yellow.png,false), Chip(black,20000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_black.png,false)),10,200000,100,200,10,10000,10,20000,10,30000,10,40000,10,60000,100,120000,100,200000)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.771 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Service is being Initialized",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.766 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System Uptime : 0",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.766 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System is : iGameSuitActorSystem",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.766 IST"
+}, {
+  "logType" : "error",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Actor Start",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.516 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Configuration InitialData(221002,1,AutomatedRoulette,RouletteGameData(Group(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0),List(),List(),List(),List(),List()),automatedRoulette,221002)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.515 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Limits TableLimit(List(Chip(cyan,10,http://192.168.1.5:3000/assets/CustomAssets/chips/default_cyan.png,false), Chip(red,20,http://192.168.1.5:3000/assets/CustomAssets/chips/default_red.png,false), Chip(violet,50,http://192.168.1.5:3000/assets/CustomAssets/chips/default_violet.png,false), Chip(bordeaux,200,http://192.168.1.5:3000/assets/CustomAssets/chips/default_bordeaux.png,false), Chip(green,1000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_green.png,false), Chip(yellow,5000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_yellow.png,false), Chip(black,20000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_black.png,false)),10,200000,100,200,10,10000,10,20000,10,30000,10,40000,10,60000,100,120000,100,200000)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.515 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Service is being Initialized",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.514 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System Uptime : 0",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.514 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System is : iGameSuitActorSystem",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.513 IST"
+}, {
+  "logType" : "error",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Actor Start",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.284 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Configuration InitialData(221002,1,AutomatedRoulette,RouletteGameData(Group(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0),List(),List(),List(),List(),List()),automatedRoulette,221002)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.282 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Limits TableLimit(List(Chip(cyan,10,http://192.168.1.5:3000/assets/CustomAssets/chips/default_cyan.png,false), Chip(red,20,http://192.168.1.5:3000/assets/CustomAssets/chips/default_red.png,false), Chip(violet,50,http://192.168.1.5:3000/assets/CustomAssets/chips/default_violet.png,false), Chip(bordeaux,200,http://192.168.1.5:3000/assets/CustomAssets/chips/default_bordeaux.png,false), Chip(green,1000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_green.png,false), Chip(yellow,5000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_yellow.png,false), Chip(black,20000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_black.png,false)),10,200000,100,200,10,10000,10,20000,10,30000,10,40000,10,60000,100,120000,100,200000)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.282 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Service is being Initialized",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.280 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System Uptime : 0",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.280 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System is : iGameSuitActorSystem",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.280 IST"
+}, {
+  "logType" : "error",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Actor Start",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.030 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Configuration InitialData(221002,1,AutomatedRoulette,RouletteGameData(Group(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0),List(),List(),List(),List(),List()),automatedRoulette,221002)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.028 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Limits TableLimit(List(Chip(cyan,10,http://192.168.1.5:3000/assets/CustomAssets/chips/default_cyan.png,false), Chip(red,20,http://192.168.1.5:3000/assets/CustomAssets/chips/default_red.png,false), Chip(violet,50,http://192.168.1.5:3000/assets/CustomAssets/chips/default_violet.png,false), Chip(bordeaux,200,http://192.168.1.5:3000/assets/CustomAssets/chips/default_bordeaux.png,false), Chip(green,1000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_green.png,false), Chip(yellow,5000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_yellow.png,false), Chip(black,20000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_black.png,false)),10,200000,100,200,10,10000,10,20000,10,30000,10,40000,10,60000,100,120000,100,200000)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.028 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Service is being Initialized",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.025 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System Uptime : 0",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.025 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System is : iGameSuitActorSystem",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:52.025 IST"
+}, {
+  "logType" : "warning",
+  "runtimeClass" : "MainActor",
+  "content" : "Admin from 192.168.1.5 Connected",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.808 IST"
+}, {
+  "logType" : "warning",
+  "runtimeClass" : "General",
+  "content" : "Admin Socket Flow Actor for 192.168.1.5 Started",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.805 IST"
+}, {
+  "logType" : "error",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Actor Start",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.771 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Configuration InitialData(221002,1,AutomatedRoulette,RouletteGameData(Group(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0),List(),List(),List(),List(),List()),automatedRoulette,221002)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.770 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Limits TableLimit(List(Chip(cyan,10,http://192.168.1.5:3000/assets/CustomAssets/chips/default_cyan.png,false), Chip(red,20,http://192.168.1.5:3000/assets/CustomAssets/chips/default_red.png,false), Chip(violet,50,http://192.168.1.5:3000/assets/CustomAssets/chips/default_violet.png,false), Chip(bordeaux,200,http://192.168.1.5:3000/assets/CustomAssets/chips/default_bordeaux.png,false), Chip(green,1000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_green.png,false), Chip(yellow,5000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_yellow.png,false), Chip(black,20000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_black.png,false)),10,200000,100,200,10,10000,10,20000,10,30000,10,40000,10,60000,100,120000,100,200000)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.770 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Service is being Initialized",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.766 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System Uptime : 0",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.766 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System is : iGameSuitActorSystem",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.766 IST"
+}, {
+  "logType" : "error",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Actor Start",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.426 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Configuration InitialData(221002,1,AutomatedRoulette,RouletteGameData(Group(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0),List(),List(),List(),List(),List()),automatedRoulette,221002)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.424 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Limits TableLimit(List(Chip(cyan,10,http://192.168.1.5:3000/assets/CustomAssets/chips/default_cyan.png,false), Chip(red,20,http://192.168.1.5:3000/assets/CustomAssets/chips/default_red.png,false), Chip(violet,50,http://192.168.1.5:3000/assets/CustomAssets/chips/default_violet.png,false), Chip(bordeaux,200,http://192.168.1.5:3000/assets/CustomAssets/chips/default_bordeaux.png,false), Chip(green,1000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_green.png,false), Chip(yellow,5000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_yellow.png,false), Chip(black,20000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_black.png,false)),10,200000,100,200,10,10000,10,20000,10,30000,10,40000,10,60000,100,120000,100,200000)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.424 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Service is being Initialized",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.419 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System Uptime : 0",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.419 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System is : iGameSuitActorSystem",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.419 IST"
+}, {
+  "logType" : "error",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Actor Start",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.197 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Configuration InitialData(221002,1,AutomatedRoulette,RouletteGameData(Group(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0),List(),List(),List(),List(),List()),automatedRoulette,221002)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.196 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Limits TableLimit(List(Chip(cyan,10,http://192.168.1.5:3000/assets/CustomAssets/chips/default_cyan.png,false), Chip(red,20,http://192.168.1.5:3000/assets/CustomAssets/chips/default_red.png,false), Chip(violet,50,http://192.168.1.5:3000/assets/CustomAssets/chips/default_violet.png,false), Chip(bordeaux,200,http://192.168.1.5:3000/assets/CustomAssets/chips/default_bordeaux.png,false), Chip(green,1000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_green.png,false), Chip(yellow,5000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_yellow.png,false), Chip(black,20000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_black.png,false)),10,200000,100,200,10,10000,10,20000,10,30000,10,40000,10,60000,100,120000,100,200000)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.196 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Service is being Initialized",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.192 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System Uptime : 0",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.192 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System is : iGameSuitActorSystem",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:51.192 IST"
+}, {
+  "logType" : "error",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Actor Start",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:50.788 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Configuration InitialData(221002,1,AutomatedRoulette,RouletteGameData(Group(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0),List(),List(),List(),List(),List()),automatedRoulette,221002)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:50.786 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouletteActor",
+  "content" : "Roulette Table Init with Limits TableLimit(List(Chip(cyan,10,http://192.168.1.5:3000/assets/CustomAssets/chips/default_cyan.png,false), Chip(red,20,http://192.168.1.5:3000/assets/CustomAssets/chips/default_red.png,false), Chip(violet,50,http://192.168.1.5:3000/assets/CustomAssets/chips/default_violet.png,false), Chip(bordeaux,200,http://192.168.1.5:3000/assets/CustomAssets/chips/default_bordeaux.png,false), Chip(green,1000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_green.png,false), Chip(yellow,5000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_yellow.png,false), Chip(black,20000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_black.png,false)),10,200000,100,200,10,10000,10,20000,10,30000,10,40000,10,60000,100,120000,100,200000)",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:50.785 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Service is being Initialized",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:50.760 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System Uptime : 0",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:50.760 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System is : iGameSuitActorSystem",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:50.760 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "History UpdatedList((0,0), (1,0), (2,0), (3,0), (4,0), (5,0), (6,0), (7,0), (8,0), (9,0), (10,0), (12,0), (14,0), (15,0), (16,0), (17,0), (18,0), (19,0), (20,0), (21,0), (22,0), (23,0), (24,0), (25,0), (26,0), (27,0), (28,0), (29,0), (30,0), (31,0), (32,0), (34,0), (35,0), (36,0), (33,1), (11,1), (13,2))",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:20.130 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Winning Number Detected13",
+  "timestamp" : "Thu, 09 Jun 2022 15:49:20.130 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "History UpdatedList((0,0), (1,0), (2,0), (3,0), (4,0), (5,0), (6,0), (7,0), (8,0), (9,0), (10,0), (12,0), (14,0), (15,0), (16,0), (17,0), (18,0), (19,0), (20,0), (21,0), (22,0), (23,0), (24,0), (25,0), (26,0), (27,0), (28,0), (29,0), (30,0), (31,0), (32,0), (34,0), (35,0), (36,0), (33,1), (13,1), (11,1))",
+  "timestamp" : "Thu, 09 Jun 2022 15:48:26.072 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Winning Number Detected11",
+  "timestamp" : "Thu, 09 Jun 2022 15:48:26.071 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "History UpdatedList((0,0), (1,0), (2,0), (3,0), (4,0), (5,0), (6,0), (7,0), (8,0), (9,0), (10,0), (11,0), (12,0), (14,0), (15,0), (16,0), (17,0), (18,0), (19,0), (20,0), (21,0), (22,0), (23,0), (24,0), (25,0), (26,0), (27,0), (28,0), (29,0), (30,0), (31,0), (32,0), (34,0), (35,0), (36,0), (33,1), (13,1))",
+  "timestamp" : "Thu, 09 Jun 2022 15:47:32.011 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Winning Number Detected33",
+  "timestamp" : "Thu, 09 Jun 2022 15:47:32.011 IST"
+}, {
+  "logType" : "warning",
+  "runtimeClass" : "MainActor",
+  "content" : "Admin from 192.168.1.5 Connected",
+  "timestamp" : "Thu, 09 Jun 2022 15:47:20.020 IST"
+}, {
+  "logType" : "warning",
+  "runtimeClass" : "General",
+  "content" : "Admin Socket Flow Actor for 192.168.1.5 Started",
+  "timestamp" : "Thu, 09 Jun 2022 15:47:19.884 IST"
+}, {
+  "logType" : "warning",
+  "runtimeClass" : "RouleteActor",
+  "content" : "Client 0:0:0:0:0:0:0:1 Disconnected",
+  "timestamp" : "Thu, 09 Jun 2022 15:47:17.053 IST"
+}, {
+  "logType" : "warning",
+  "runtimeClass" : "General",
+  "content" : "Client Socket Flow Actor for 0:0:0:0:0:0:0:1 Stopped",
+  "timestamp" : "Thu, 09 Jun 2022 15:47:16.954 IST"
+}, {
+  "logType" : "warning",
+  "runtimeClass" : "RouleteActor",
+  "content" : "Client Connected from 0:0:0:0:0:0:0:1 Balance=500000.0",
+  "timestamp" : "Thu, 09 Jun 2022 15:46:47.108 IST"
+}, {
+  "logType" : "warning",
+  "runtimeClass" : "General",
+  "content" : "Client Socket Flow Actor for 0:0:0:0:0:0:0:1 Started",
+  "timestamp" : "Thu, 09 Jun 2022 15:46:47.061 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "History UpdatedList((0,0), (1,0), (2,0), (3,0), (4,0), (5,0), (6,0), (7,0), (8,0), (9,0), (10,0), (11,0), (12,0), (14,0), (15,0), (16,0), (17,0), (18,0), (19,0), (20,0), (21,0), (22,0), (23,0), (24,0), (25,0), (26,0), (27,0), (28,0), (29,0), (30,0), (31,0), (32,0), (33,0), (34,0), (35,0), (36,0), (13,1))",
+  "timestamp" : "Thu, 09 Jun 2022 15:46:37.956 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Winning Number Detected13",
+  "timestamp" : "Thu, 09 Jun 2022 15:46:37.951 IST"
+}, {
+  "logType" : "warning",
+  "runtimeClass" : "MainActor",
+  "content" : "Admin from 192.168.1.5 Connected",
+  "timestamp" : "Thu, 09 Jun 2022 15:45:55.758 IST"
+}, {
+  "logType" : "warning",
+  "runtimeClass" : "General",
+  "content" : "Admin Socket Flow Actor for 192.168.1.5 Started",
+  "timestamp" : "Thu, 09 Jun 2022 15:45:55.623 IST"
+}, {
+  "logType" : "error",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Actor Start",
+  "timestamp" : "Thu, 09 Jun 2022 15:45:55.111 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouleteActor",
+  "content" : "Roulette Table Init with Configuration InitialData(221002,1,AutomatedRoulette,RouletteGameData(Group(0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0),List(),List(),List(),List(),List()),automatedRoulette,221002)",
+  "timestamp" : "Thu, 09 Jun 2022 15:45:55.108 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "RouleteActor",
+  "content" : "Roulette Table Init with Limits TableLimit(List(Chip(cyan,10,http://192.168.1.5:3000/assets/CustomAssets/chips/default_cyan.png,false), Chip(red,20,http://192.168.1.5:3000/assets/CustomAssets/chips/default_red.png,false), Chip(violet,50,http://192.168.1.5:3000/assets/CustomAssets/chips/default_violet.png,false), Chip(bordeaux,200,http://192.168.1.5:3000/assets/CustomAssets/chips/default_bordeaux.png,false), Chip(green,1000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_green.png,false), Chip(yellow,5000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_yellow.png,false), Chip(black,20000,http://192.168.1.5:3000/assets/CustomAssets/chips/default_black.png,false)),10,200000,100,200,10,10000,10,20000,10,30000,10,40000,10,60000,100,120000,100,200000)",
+  "timestamp" : "Thu, 09 Jun 2022 15:45:55.108 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Roulette Game Service is being Initialized",
+  "timestamp" : "Thu, 09 Jun 2022 15:45:55.083 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System Uptime : 0",
+  "timestamp" : "Thu, 09 Jun 2022 15:45:55.083 IST"
+}, {
+  "logType" : "info",
+  "runtimeClass" : "General",
+  "content" : "Actor System is : iGameSuitActorSystem",
+  "timestamp" : "Thu, 09 Jun 2022 15:45:55.081 IST"
+} ]

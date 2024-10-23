@@ -1,0 +1,100 @@
+{
+  "221002": {
+    "id": 221002,
+    "game_id": 7,
+    "meta_table_id": 221002,
+    "languages": [
+      "en"
+    ],
+    "open_hours": {
+      "open": null,
+      "close": null
+    },
+    "closed_table_image": "",
+    "open_table_image": "",
+    "title": "Royal Roulette",
+    "active": true,
+    "dealer_id": "1",
+    "dealer_name": "Default",
+    "dealer_image": "",
+    "dynamic_table_image": "",
+    "has_hybrid": false,
+    "hybrid_table_id": 0,
+    "history": [],
+    "round_start_time": {
+      "time_left": 0,
+      "timestamp": 0
+    },
+    "use_dynamic_image": false,
+    "players_count": 0,
+    "new": false,
+    "limits": {
+      "758359": {
+        "id": 758359,
+        "chips": [
+          {
+            "color": "cyan",
+            "value": 10,
+            "img": "http://localhost:9000/assets/CustomAssets/chips/default_cyan.png",
+            "default": false
+          },
+          {
+            "color": "red",
+            "value": 20,
+            "img": "http://localhost:9000/assets/CustomAssets/chips/default_red.png",
+            "default": false
+          },
+          {
+            "color": "violet",
+            "value": 50,
+            "img": "http://localhost:9000/assets/CustomAssets/chips/default_violet.png",
+            "default": false
+          },
+          {
+            "color": "bordeaux",
+            "value": 200,
+            "img": "http://localhost:9000/assets/CustomAssets/chips/default_bordeaux.png",
+            "default": false
+          },
+          {
+            "color": "green",
+            "value": 1000,
+            "img": "http://localhost:9000/assets/CustomAssets/chips/default_green.png",
+            "default": false
+          },
+          {
+            "color": "yellow",
+            "value": 5000,
+            "img": "http://localhost:9000/assets/CustomAssets/chips/default_yellow.png",
+            "default": false
+          },
+          {
+            "color": "black",
+            "value": 20000,
+            "img": "http://localhost:9000/assets/CustomAssets/chips/default_black.png",
+            "default": false
+          }
+        ],
+        "Min_Bet": 10,
+        "Max_Bet": 200000,
+        "Min_SideBet": 100,
+        "Max_SideBet": 200,
+        "Min_StraightUpBet": 10,
+        "Max_StraightUpBet": 1000,
+        "Min_SplitBet": 10,
+        "Max_SplitBet": 2000,
+        "Min_StreetBet": 10,
+        "Max_StreetBet": 9000,
+        "Min_CornerBet": 10,
+        "Max_CornerBet": 4000,
+        "Min_LineBet": 10,
+        "Max_LineBet": 6000,
+
+        "Min_Dozen_ColumnBet": 100,
+        "Max_Dozen_ColumnBet": 12000,
+        "Min_OutsideBet": 100,
+        "Max_OutsideBet": 100000
+      }
+    }
+  }
+}

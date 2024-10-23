@@ -1,0 +1,51 @@
+#*********************************************************************************************************************************************************************
+#
+#Licensed under the Software License Agreement (the "License") of Tykhe Gaming Private Limited.
+#You may not use this file except in compliance with the License.
+#You may obtain a copy of the License at http://tykhegaming.github.io/LICENSE.txt.
+
+#NOTICE
+#ALL INFORMATION CONTAINED HEREIN IS, AND REMAINS THE PROPERTY OF TYKHE GAMING PRIVATE LIMITED.
+#THE INTELLECTUAL AND TECHNICAL CONCEPTS CONTAINED HEREIN ARE PROPRIETARY TO TYKHE GAMING PRIVATE LIMITED AND ARE PROTECTED BY TRADE SECRET OR COPYRIGHT LAW.
+#DISSEMINATION OF THIS INFORMATION OR REPRODUCTION OF THIS MATERIAL IS STRICTLY FORBIDDEN UNLESS PRIOR WRITTEN PERMISSION IS OBTAINED FROM TYKHE GAMING PRIVATE LIMITED.
+
+# **********************************************************************************************************************************************************************
+# Change History
+# **********************************************************************************************************************************************************************
+# |     Date      |     Name     |      Change     |      Details
+# |  01/08/2022   | Wilson Sam   |     Created     |  First Milestone
+# |  21/11/2023   | Wilson Sam   |     Version     |  Packaged For Demo
+# **********************************************************************************************************************************************************************
+#
+# Assets Requests
+GET     /assets/*file                     controllers.AppController.versioned(path="/public", file: Asset)
+
+
+# Texas Holdem Application
+
+#
+GET     /player                           controllers.holdem.PokerController.sendPlayerPage()
+GET     /admin                            controllers.holdem.PokerController.sendAdminPage()
+GET     /topper                           controllers.holdem.PokerController.sendTopperPage()
+GET     /holdem/player                           controllers.holdem.PokerController.sendPlayerPage()
+GET     /holdem/admin                            controllers.holdem.PokerController.sendAdminPage()
+GET     /holdem/topper                           controllers.holdem.PokerController.sendTopperPage()
+
+
+# API Services
+GET     /api/holdem/getInitialData   controllers.AppApiController.sendInitialDataJson()
+GET     /api/holdem/authenticate     controllers.AppApiController.sendAuthenticateJson()
+GET     /api/holdem/getStreams       controllers.AppApiController.sendStreamsJson()
+
+POST    /api/holdem/beetek/card      controllers.holdem.PokerController.handleCardDrawn()
+
+
+# Web Socket Services
++ nocsrf
+GET     /holdem/wsclient/player2                controllers.holdem.PokerController.holdem2
++ nocsrf
+GET     /holdem/wsclient/player                controllers.holdem.PokerController.holdem
++ nocsrf
+GET     /holdem/wsclient/topper                controllers.holdem.PokerController.topper
++ nocsrf
+GET     /holdem/wsclient/admin                 controllers.holdem.PokerController.admin

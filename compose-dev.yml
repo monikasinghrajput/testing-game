@@ -1,0 +1,25 @@
+
+services:
+  poker-webapp-server:
+    build: .
+    image: tykhegaming/poker-webapp-server:latest
+    container_name: poker-webapp-server
+    ports:
+      - "9000:9000"
+    environment:
+      - DATABASE_URL=jdbc:postgresql://db:5432/postgres_db
+      - DATABASE_USER=tykhe
+      - DATABASE_PASSWORD=tykhe
+    depends_on:
+      - db
+
+  db:
+    image: postgres:latest
+    container_name: postgres_db
+    restart: always
+    environment:
+      POSTGRES_DB: postgres_db
+      POSTGRES_USER: tykhe
+      POSTGRES_PASSWORD: tykhe
+    ports:
+      - "5432:5432"

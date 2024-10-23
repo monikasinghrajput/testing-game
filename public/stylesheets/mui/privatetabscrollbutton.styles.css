@@ -1,0 +1,11 @@
+.jss738 {
+  width: 40px;
+  flex-shrink: 0;
+}
+.jss739 {
+  width: 100%;
+  height: 40px;
+}
+.jss739 svg {
+  transform: rotate(90deg);
+}

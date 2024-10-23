@@ -1,0 +1,661 @@
+{
+  "32cards": {
+    "bet_layout_payout_y_offset": "100"
+  },
+  "amount_display": {
+    "bet_format": "comma",
+    "date_format": "dd-mm-yy",
+    "k_symbol": "K",
+    "limit_format": "comma",
+    "m_symbol": "M",
+    "payout_format": "default",
+    "show_bet_currency": true,
+    "show_currency_code": true,
+    "show_currency_symbol": true,
+    "show_limit_currency": true
+  },
+  "baccarat": {
+    "disableSmallAndBig": true,
+    "scoresConfig": "{ \"desktop\":{ \"left\":{ \"x\":0.35, \"y\":0.6 }, \"right\":{ \"x\":0.65, \"y\":0.6 } }, \"landscape\":{ \"left\":{ \"x\":0.3, \"y\":0.6 }, \"right\":{ \"x\":0.7, \"y\":0.6 } }, \"portrait\":{ \"left\":{ \"x\":0.1, \"y\":0.7 }, \"right\":{ \"x\":0.9, \"y\":0.7 } } }",
+    "sidebets": "{\"PerfectPair\":true,\"Small\":true,\"Big\":true,\"SuperSix\":true,\"DragonBonusPlayer\":true,\"NaturalPlayer\":true,\"Totals1To4\":true}",
+    "statisticsConfig": "{\"showStatistics\":false,\"statisticsConfig\":{\"showPercent\":true,\"showUsers\":true,\"showAmount\":true,\"playerOrder\":{\"percent\":1,\"users\":3,\"amount\":2},\"tieOrder\":{\"percent\":1,\"users\":3,\"amount\":2},\"bankerOrder\":{\"percent\":1,\"users\":3,\"amount\":2}}}",
+    "zoomConfig": "{\"width\":500,\"height\":600,\"anchor\":{\"x\":0.5,\"y\":0.7},\"toolTipPosition\":{\"landscape\":{\"x\":0.5,\"y\":0.5},\"portrait\":{\"x\":0.5,\"y\":0.95}},\"toolTipTime\":{\"show\":3000,\"hide\":10000},\"zoomFactor\":2,\"zoomEnabled\":false}"
+  },
+  "bets": {
+    "allow_opposite": false
+  },
+  "blackjack": {
+    "auto_stand": false,
+    "dealer_score_position": "{\"default\": {\"dealer_score_x\":46.6,\"dealer_score_y\":59},\"portrait\":{\"dealer_score_x\":20,\"dealer_score_y\":30}}",
+    "deal_now": false,
+    "disable_side_bets": false,
+    "myNameColor": "#ffffff",
+    "mySeatColor": "#ffffff",
+    "otherPlayerNameColor": "#f5ca96",
+    "otherPlayerSeatColor": "#f5ca96",
+    "perfect11_bonus": false,
+    "seatsPositioning": "{\"default\":{\"tablePosition\":21,\"seatsDistance\":[2,-2,0,0,0,0,-2],\"seatsY\":[7,0,-5,-7,-5,0,7],\"seats\":[{\"x\":61,\"y\":-4,\"z\":-48},{\"x\":59,\"y\":-4,\"z\":-26},{\"x\":55,\"y\":-5,\"z\":-9},{\"x\":53,\"y\":0,\"z\":0},{\"x\":55,\"y\":5,\"z\":9},{\"x\":59,\"y\":4,\"z\":26},{\"x\":61,\"y\":4,\"z\":48}]},\"portrait\":{\"tablePosition\":6,\"seatsDistance\":[2,-1,1,1,1,1,-1],\"seatsY\":[-40,-49,-55.5,-57,-55.5,-49,-40],\"seats\":[{\"x\":61,\"y\":-4,\"z\":-48},{\"x\":59,\"y\":-4,\"z\":-26},{\"x\":55,\"y\":-5,\"z\":-9},{\"x\":53,\"y\":0,\"z\":0},{\"x\":55,\"y\":5,\"z\":9},{\"x\":59,\"y\":4,\"z\":26},{\"x\":61,\"y\":4,\"z\":48}]},\"desktop\":{\"tablePosition\":20.5,\"seatsDistance\":[2,-2,0,0.5,0.5,0,-2],\"seatsY\":[12.5,5,1,0,1,5,12.5],\"seats\":[{\"x\":61,\"y\":0,\"z\":-58},{\"x\":59,\"y\":0,\"z\":-26},{\"x\":55,\"y\":1,\"z\":-9},{\"x\":53,\"y\":0,\"z\":0},{\"x\":55,\"y\":1,\"z\":9},{\"x\":59,\"y\":0,\"z\":26},{\"x\":61,\"y\":0,\"z\":58}]}}",
+    "seatsSattelitesPositioning": "{\"default\":{\"s1\":{\"leaveButton\":{\"left\":0,\"top\":0},\"userScore\":{\"top\":-3,\"left\":25},\"userScoreSplit\":{\"top\":-3,\"left\":25},\"seatDecision\":{\"left\":0,\"top\":0},\"userName\":{\"left\":20,\"top\":-20},\"earlyDecision\":{\"left\":35,\"top\":-20}},\"s2\":{\"leaveButton\":{\"left\":0,\"top\":0},\"userScore\":{\"top\":-3,\"left\":60},\"userScoreSplit\":{\"top\":-3,\"left\":60},\"seatDecision\":{\"left\":0,\"top\":0},\"userName\":{\"left\":10,\"top\":-20},\"earlyDecision\":{\"left\":25,\"top\":-27}},\"s3\":{\"leaveButton\":{\"left\":0,\"top\":0},\"userScore\":{\"top\":-3,\"left\":80},\"userScoreSplit\":{\"top\":-3,\"left\":80},\"seatDecision\":{\"left\":0,\"top\":-3},\"userName\":{\"left\":10,\"top\":-25},\"earlyDecision\":{\"left\":14,\"top\":-30}},\"s4\":{\"leaveButton\":{\"left\":0,\"top\":0},\"userScore\":{\"top\":6,\"left\":20},\"userScoreSplit\":{\"top\":6,\"left\":20},\"seatDecision\":{\"left\":0,\"top\":-10},\"userName\":{\"left\":0,\"top\":-30},\"earlyDecision\":{\"left\":0,\"top\":-12}},\"s5\":{\"leaveButton\":{\"left\":0,\"top\":0},\"userScore\":{\"top\":-3,\"left\":22},\"userScoreSplit\":{\"top\":-3,\"left\":22},\"seatDecision\":{\"left\":0,\"top\":-3},\"userName\":{\"left\":-5,\"top\":-25},\"earlyDecision\":{\"left\":-15,\"top\":-30}},\"s6\":{\"leaveButton\":{\"left\":0,\"top\":0},\"userScore\":{\"top\":-3,\"left\":40},\"userScoreSplit\":{\"top\":-3,\"left\":40},\"seatDecision\":{\"left\":0,\"top\":0},\"userName\":{\"left\":-5,\"top\":-20},\"earlyDecision\":{\"left\":-20,\"top\":-27}},\"s7\":{\"leaveButton\":{\"left\":0,\"top\":0},\"userScore\":{\"top\":0,\"left\":80},\"userScoreSplit\":{\"top\":0,\"left\":80},\"seatDecision\":{\"left\":0,\"top\":0},\"userName\":{\"left\":-28,\"top\":-20},\"earlyDecision\":{\"left\":-35,\"top\":-20}}}}",
+    "ten20_bonus": false,
+    "videoConfig": "{\"scale\":1.5}"
+  },
+  "cashier": {
+    "cashier_method": "popup",
+    "cashier_popup_height": "360",
+    "cashier_popup_width": "640"
+  },
+  "chips": {
+    "chip_image_black": "chips/default_black.png",
+    "chip_image_blue": "chips/default_blue.png",
+    "chip_image_bordeaux": "chips/default_bordeaux.png",
+    "chip_image_cyan": "chips/default_cyan.png",
+    "chip_image_disabled": "chips/default_disabled.png",
+    "chip_image_green": "chips/default_green.png",
+    "chip_image_orange": "chips/default_orange.png",
+    "chip_image_pink": "chips/default_pink.png",
+    "chip_image_purple": "chips/default_purple.png",
+    "chip_image_red": "chips/default_red.png",
+    "chip_image_violet": "chips/default_violet.png",
+    "chip_image_yellow": "chips/default_yellow.png"
+  },
+  "exclude_games_by_device": {
+    "exclude_android_phone_games": [
+      34,
+      6,
+      36,
+      8
+    ],
+    "exclude_android_phone_tables": [],
+    "exclude_android_tablet_games": [
+      34,
+      6,
+      36,
+      8
+    ],
+    "exclude_android_tablet_tables": [],
+    "exclude_ios_phone_games": [
+      34,
+      6,
+      36,
+      8
+    ],
+    "exclude_ios_phone_tables": [],
+    "exclude_ios_tablet_games": [
+      34,
+      6,
+      36,
+      8
+    ],
+    "exclude_ios_tablet_tables": [],
+    "exclude_pc_games": [],
+    "exclude_pc_tables": []
+  },
+  "filters": {
+    "ezugi_recommended_active": false,
+    "game_groups": [
+      {
+        "id": 1,
+        "name": "Popular",
+        "selectGame": "VIP",
+        "locale": "groups.group_vip",
+        "games": [],
+        "tables": [
+          228100,
+          227,
+          471000,
+          224100,
+          481000,
+          102,
+          328000,
+          45100,
+          227103,
+          601000,
+          431000,
+          224000,
+          221001,
+          221000,
+          4351,
+          431001,
+          43100,
+          228002,
+          227101,
+          228001,
+          221002,
+          101,
+          228000,
+          221004,
+          227100,
+          51,
+          201,
+          170,
+          221003,
+          150,
+          100,
+          507000,
+          225,
+          321000,
+          32100
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Roulette",
+        "selectGame": "Roulette",
+        "locale": "groups.group_roulette",
+        "games": [
+          30,
+          48,
+          3,
+          7,
+          29,
+          31,
+          35,
+          18
+        ],
+        "tables": [
+          301000,
+          221001,
+          601000,
+          221000,
+          221002,
+          431000,
+          321000,
+          431001,
+          221003,
+          221004,
+          1000,
+          1001,
+          501000,
+          5001,
+          611006,
+          611005,
+          611004,
+          611003,
+          611000,
+          611001,
+          221005,
+          411000,
+          321001,
+          421002
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Blackjack",
+        "selectGame": "Blackjack",
+        "locale": "groups.group_blackjack",
+        "games": [
+          46,
+          1,
+          51,
+          10,
+          12
+        ],
+        "tables": [
+          227,
+          51,
+          255,
+          256,
+          223,
+          226,
+          4,
+          221,
+          4351,
+          203,
+          201,
+          5,
+          1,
+          224,
+          225,
+          501,
+          421,
+          422,
+          204,
+          411,
+          412,
+          425,
+          426,
+          5051,
+          222
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Poker",
+        "selectGame": "poker",
+        "locale": "groups.group_poker",
+        "games": [
+          53,
+          17,
+          16,
+          50,
+          15
+        ],
+        "tables": [
+          227103
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Baccarat",
+        "selectGame": "Baccarat",
+        "locale": "groups.group_baccarat",
+        "games": [
+          45,
+          2,
+          20,
+          21,
+          24,
+          25,
+          26,
+          27
+        ],
+        "tables": [
+          106,
+          45100,
+          150,
+          102,
+          101,
+          171,
+          32100,
+          32101,
+          100,
+          43100,
+          170,
+          120,
+          130,
+          26100,
+          26101,
+          41100,
+          41101,
+          41103,
+          32102,
+          32103
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Andar Bahar",
+        "selectGame": "andar_bahar",
+        "locale": "groups.group_andar_bahar",
+        "games": [
+          55,
+          38,
+          39
+        ],
+        "tables": [
+          328000
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Sicbo",
+        "selectGame": "sicbo",
+        "locale": "groups.group_sicbo",
+        "games": [
+          52,
+          14
+        ],
+        "tables": []
+      },
+      {
+        "id": 8,
+        "name": "Lucky 7",
+        "selectGame": "lucky7",
+        "locale": "groups.group_lucky7",
+        "games": [
+          13
+        ],
+        "tables": []
+      },
+      {
+        "id": 9,
+        "name": "32 Cards",
+        "selectGame": "32cards",
+        "locale": "groups.group_32cards",
+        "games": [
+          19
+        ],
+        "tables": []
+      },
+      {
+        "id": 10,
+        "name": "Bet On Numbers",
+        "selectGame": "Lottery",
+        "locale": "groups.group_bet_on_numbers",
+        "games": [
+          47,
+          4,
+          40
+        ],
+        "tables": []
+      }
+    ],
+    "recommended_tables": [],
+    "sort_bj_category": "{\"enableSort\":true,\"groupName\":\"blackjack\"}",
+    "tables_sorting_type": "default"
+  },
+  "general": {
+    "abrAdaptionRule": "deviationOfMean",
+    "allow_video_quality_switch": false,
+    "available_languages": [
+      {
+        "code": "en",
+        "label": "English",
+        "flag": "en"
+      },
+      {
+        "code": "es",
+        "label": "Español",
+        "flag": "es"
+      },
+      {
+        "code": "ru",
+        "label": "Pусский",
+        "flag": "ru"
+      },
+      {
+        "code": "tr",
+        "label": "Türkçe",
+        "flag": "tr"
+      },
+      {
+        "code": "ko",
+        "label": "한국어",
+        "flag": "ko"
+      },
+      {
+        "code": "zf",
+        "label": "简体中文",
+        "flag": "zf"
+      },
+      {
+        "code": "bg",
+        "label": "български",
+        "flag": "bg"
+      },
+      {
+        "code": "ar",
+        "label": "العربية",
+        "flag": "ar"
+      },
+      {
+        "code": "it",
+        "label": "Italiano",
+        "flag": "it"
+      },
+      {
+        "code": "da",
+        "label": "Dansk",
+        "flag": "da"
+      },
+      {
+        "code": "fr",
+        "label": "Français",
+        "flag": "fr"
+      },
+      {
+        "code": "th",
+        "label": "ภาษาไทย",
+        "flag": "th"
+      },
+      {
+        "code": "ja",
+        "label": "日本の",
+        "flag": "ja"
+      },
+      {
+        "code": "ms",
+        "label": "Malay",
+        "flag": "ms"
+      },
+      {
+        "code": "nl",
+        "label": "Dutch",
+        "flag": "nl"
+      },
+      {
+        "code": "pt",
+        "label": "Português",
+        "flag": "pt"
+      },
+      {
+        "code": "vi",
+        "label": "Việt",
+        "flag": "vi"
+      },
+      {
+        "code": "ro",
+        "label": "Română",
+        "flag": "ro"
+      },
+      {
+        "code": "de",
+        "label": "Deutsche",
+        "flag": "de"
+      },
+      {
+        "code": "el",
+        "label": "Έλληνες",
+        "flag": "el"
+      },
+      {
+        "code": "kz",
+        "label": "Қазақ тілі",
+        "flag": "kz"
+      },
+      {
+        "code": "cs",
+        "label": "Čeština",
+        "flag": "cs"
+      },
+      {
+        "code": "hi",
+        "label": "हिंदी",
+        "flag": "hi"
+      },
+      {
+        "code": "in",
+        "label": "Indonesia",
+        "flag": "in"
+      },
+      {
+        "code": "zh",
+        "label": "繁體中文",
+        "flag": "zh"
+      },
+      {
+        "code": "lt",
+        "label": "Lietuvių",
+        "flag": "lt"
+      },
+      {
+        "code": "ta",
+        "label": "தமிழ்",
+        "flag": "ta"
+      },
+      {
+        "code": "fi",
+        "label": "Suomalainen",
+        "flag": "fi"
+      },
+      {
+        "code": "no",
+        "label": "Norsk",
+        "flag": "no"
+      },
+      {
+        "code": "lv",
+        "label": "Latviešu",
+        "flag": "lv"
+      },
+      {
+        "code": "sv",
+        "label": "Svenska",
+        "flag": "sv"
+      },
+      {
+        "code": "sv",
+        "label": "Svenska",
+        "flag": "sv"
+      },
+      {
+        "code": "sr",
+        "label": "Srpski",
+        "flag": "sr"
+      },
+      {
+        "code": "tl",
+        "label": "Tagalog",
+        "flag": "tl"
+      }
+    ],
+    "bet_auto_adjust": true,
+    "enable_auto_sounds": true,
+    "enable_balance": true,
+    "enable_logo": true,
+    "enable_player_name": true,
+    "enable_statistics_betting": true,
+    "logo_url": "operator_logo/tykhe.png",
+    "noWinBelowBet": false,
+    "open_table_method": "replace",
+    "reality_check_buttons_method": "url",
+    "show_game_info_version": true,
+    "ultimateABCommission": "20",
+    "ultimateABMultipliersConfig": [
+      {
+        "cardCountProbabilities": {
+          "1": 20,
+          "2": 20,
+          "3": 20,
+          "4": 20,
+          "5": 20
+        },
+        "multiplierProbabilities": {
+          "2": 50,
+          "3": 50
+        },
+        "sideBetMultiplier": 10,
+        "sideBetProbabilities": {
+          "Joker_1_5": 20,
+          "Joker_6_10": 30,
+          "Joker_11_15": 40,
+          "Joker_16_25": 50,
+          "Joker_26_30": 60,
+          "Joker_31_35": 70,
+          "Joker_36_40": 80,
+          "Joker_41": 90
+        }
+      }
+    ]
+  },
+  "home": {
+    "home_method": "url",
+    "home_url": "https://play.livetables.io/lobby/",
+    "home_use_ezugi_lobby": true
+  },
+  "lobby": {
+    "background_url": "operator_background/lobbyHeader.jpg",
+    "enable_all_games_page": false,
+    "enable_game_group_selector": true,
+    "hide_table_flag": "",
+    "info_show_in_lobby": true,
+    "roadmap_bg_type": "white",
+    "roadmap_type": "big"
+  },
+  "preloader": {
+    "powered_by": "Powered by",
+    "powered_by_icon_url": "operator_logo/tykhe.png",
+    "preloader_background_url": "operator_background/default-roulette_allcategory.jpg",
+    "preloader_enable_power_by": true,
+    "preloader_icon_url": "operator_logo/cadillac.png",
+    "back_to_home_page": "Back to home page"
+  },
+  "roulette": {
+    "bet_coverage": "99"
+  },
+  "russian_poker": {
+    "bet_layout_gap_size_scale": "1",
+    "bet_layout_perspective": "45",
+    "bet_layout_x_offset": "0",
+    "bet_layout_y_offset": "-1",
+    "table_felt_ante_y_offset": [
+      0,
+      0,
+      0
+    ],
+    "table_felt_arch_multiplier": "1",
+    "table_felt_arch_x_offset": "0",
+    "table_felt_arch_y_offset": "0",
+    "table_felt_bet_y_offset": [
+      0,
+      0,
+      0
+    ],
+    "table_felt_insurance_y_offset": [
+      0,
+      0,
+      0
+    ]
+  },
+  "skin": {
+    "palette": "{\"primaryContrast\":\"rgb(219, 219, 219)\",\"accent\":\"rgb(29, 177, 249)\",\"highlight\":\"rgb(255, 179, 0)\",\"alert\":\"rgb(244, 83, 83)\",\"warning\":\"rgb(255, 179, 0)\",\"success\":\"rgb(162, 224, 131)\",\"backgroundDark\":\"rgb(17, 20, 42)\",\"foreground\":\"rgb(191, 214, 255)\"}",
+    "skin": "legacy",
+    "skin_type": "redirect",
+    "toolbar": "{\"undo\":\"rgb(32, 69, 145)\",\"double\":\"rgb(245, 155, 41)\",\"rebet\":\"rgb(25, 196, 30)\",\"clear\":\"rgb(220, 11, 12)\"}"
+  },
+  "skin_colors": {
+    "background_color": "#231F20",
+    "background_text_color": "#ffffff",
+    "highlight_color": "#ffcc00",
+    "highlight_text_color": "#000000",
+    "main_color": "#000000",
+    "main_text_color": "#ffffff"
+  },
+  "threecardpoker": {
+    "bet_layout_color": "#42423c",
+    "bet_layout_y_offset": "-1",
+    "bet_layout_y_scale_factor": "1",
+    "hide_pair_plus_sidebet": false,
+    "hide_sidebets": false,
+    "hide_six_card_sidebet": false
+  },
+  "widgets": {
+    "camera_angle_change": false,
+    "cashier": false,
+    "chat": false,
+    "fullscreen": true,
+    "game_info": true,
+    "home": false,
+    "languages": false,
+    "live_support": false,
+    "minilobby": false,
+    "payouts": true,
+    "player_history": true,
+    "settings": true,
+    "split_screen": false,
+    "stats": false,
+    "tips": false
+  },
+  "winner_list": {
+    "color_config": [
+      {
+        "amount": 500,
+        "color": "rgb(219, 219, 219)"
+      },
+      {
+        "amount": 1000,
+        "color": "rgb(255, 200, 110)"
+      },
+      {
+        "amount": 1500,
+        "color": "rgb(29, 177, 249)"
+      },
+      {
+        "amount": 2000,
+        "color": "rgb(154, 198, 105)"
+      }
+    ],
+    "duration": "15000"
+  }
+}

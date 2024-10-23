@@ -1,0 +1,307 @@
+{
+  "0": {
+    "name": "lobby",
+    "server_name": "Lobby",
+    "legacy": false
+  },
+  "1": {
+    "name": "blackjack",
+    "server_name": "Blackjack",
+    "legacy": true,
+    "redirect_to": "blackjack"
+  },
+  "2": {
+    "name": "baccarat",
+    "server_name": "Baccarat",
+    "legacy": true,
+    "redirect_to": "baccarat"
+  },
+  "3": {
+    "name": "roulette",
+    "server_name": "Roulette",
+    "legacy": true,
+    "redirect_to": "roulette"
+  },
+  "4": {
+    "name": "lottery",
+    "server_name": "Lottery",
+    "legacy": true,
+    "redirect_to": "lottery"
+  },
+  "5": {
+    "name": "hbj",
+    "server_name": "HybridBlackjack",
+    "legacy": true,
+    "redirect_to": "blackjack"
+  },
+  "6": {
+    "name": "keno",
+    "server_name": "Keno",
+    "legacy": true,
+    "redirect_to": "keno"
+  },
+  "7": {
+    "name": "automated_roulette",
+    "server_name": "AutomatedRoulette",
+    "legacy": true,
+    "redirect_to": "roulette"
+  },
+  "8": {
+    "name": "wheel_of_dice",
+    "server_name": "WheelOfDice",
+    "legacy": true,
+    "redirect_to": "wheel_of_dice"
+  },
+  "9": {
+    "name": "sedie",
+    "server_name": "Sedie",
+    "legacy": true,
+    "redirect_to": "sedie"
+  },
+  "10": {
+    "name": "american_blackjack",
+    "server_name": "AmericanBlackJack",
+    "legacy": true,
+    "redirect_to": "blackjack"
+  },
+  "11": {
+    "name": "ahbj",
+    "server_name": "AmericanHybridBlackjack",
+    "legacy": true,
+    "redirect_to": "blackjack"
+  },
+  "12": {
+    "name": "unlimited_blackjack",
+    "server_name": "UnlimitedBlackjack",
+    "legacy": true,
+    "redirect_to": "blackjack"
+  },
+  "13": {
+    "name": "lucky7",
+    "server_name": "Lucky7",
+    "legacy": false,
+    "redirect_to": "lucky7"
+  },
+  "14": {
+    "name": "sicbo",
+    "server_name": "Sicbo",
+    "legacy": false,
+    "redirect_to": "sicbo"
+  },
+  "15": {
+    "name": "casino_holdem",
+    "server_name": "CasinoHoldem",
+    "legacy": true,
+    "redirect_to": "casino_holdem"
+  },
+  "16": {
+    "name": "Bet_On_Teen_Patti",
+    "server_name": "BetOnTeenPatti",
+    "legacy": true,
+    "redirect_to": "betonteenpatti"
+  },
+  "17": {
+    "name": "threecardpoker",
+    "server_name": "ThreeCardPoker",
+    "legacy": true,
+    "redirect_to": "threecardpoker"
+  },
+  "18": {
+    "name": "roulettejackpot",
+    "server_name": "RouletteJackpot",
+    "legacy": true,
+    "redirect_to": "roulette"
+  },
+  "19": {
+    "name": "32cards",
+    "server_name": "32cards",
+    "legacy": false,
+    "redirect_to": "32cards"
+  },
+  "20": {
+    "name": "baccarat_ko",
+    "server_name": "BaccaratKO",
+    "legacy": true,
+    "redirect_to": "baccarat"
+  },
+  "21": {
+    "name": "baccarat_super_six",
+    "server_name": "BaccaratSuperSix",
+    "legacy": true,
+    "redirect_to": "baccarat"
+  },
+  "22": {
+    "name": "baccarat_multi_seat",
+    "server_name": "BaccaratMultiSeat",
+    "legacy": true,
+    "redirect_to": "baccarat"
+  },
+  "23": {
+    "name": "baccarat_insurance",
+    "server_name": "BaccaraInsurance",
+    "legacy": true,
+    "redirect_to": "baccarat"
+  },
+  "24": {
+    "name": "baccarat_dragon_tiger",
+    "server_name": "BaccaraDragonTiger",
+    "legacy": true,
+    "redirect_to": "baccarat"
+  },
+  "25": {
+    "name": "baccarat_no_commission",
+    "server_name": "BaccaraNoCommission",
+    "legacy": true,
+    "redirect_to": "baccarat"
+  },
+  "26": {
+    "name": "baccarat_dragon_bonus",
+    "server_name": "BaccaraDragonBonus",
+    "legacy": true,
+    "redirect_to": "baccarat"
+  },
+  "27": {
+    "name": "baccarat_queenco",
+    "server_name": "BaccaratQueenco",
+    "legacy": true,
+    "redirect_to": "baccarat"
+  },
+  "28": {
+    "name": "baccarat_punto_banco",
+    "server_name": "BaccaratPuntoBanco",
+    "legacy": true,
+    "redirect_to": "baccarat"
+  },
+  "29": {
+    "name": "roulette_portomaso",
+    "server_name": "RoulettePortomaso",
+    "legacy": true,
+    "redirect_to": "roulette"
+  },
+  "30": {
+    "name": "bet_on_roulette",
+    "server_name": "BetOnRoulette",
+    "legacy": false,
+    "redirect_to": "bet_on_roulette"
+  },
+  "31": {
+    "name": "american_roulette",
+    "server_name": "AmericanRoulette",
+    "legacy": true,
+    "redirect_to": "roulette"
+  },
+  "32": {
+    "name": "american_auto_roulette",
+    "server_name": "AmericanAutoRoulette",
+    "legacy": false,
+    "redirect_to": "roulette"
+  },
+  "33": {
+    "name": "americanroulettejackpot",
+    "server_name": "AmericanRouletteJackpot",
+    "legacy": true,
+    "redirect_to": "roulette"
+  },
+  "34": {
+    "name": "lottery_oms",
+    "server_name": "LotteryOMS",
+    "legacy": false,
+    "redirect_to": "lotterytv"
+  },
+  "35": {
+    "name": "american_ott_roulette",
+    "server_name": "AmericanOTTRoulette",
+    "legacy": true,
+    "redirect_to": "roulette"
+  },
+  "36": {
+    "name": "keno_oms",
+    "server_name": "KenoOMS",
+    "legacy": true,
+    "redirect_to": "keno"
+  },
+  "38": {
+    "name": "andarbahar",
+    "server_name": "andarbahar",
+    "legacy": false,
+    "redirect_to": "andarbahar"
+  },
+  "39": {
+    "name": "OTTAndarBahar",
+    "server_name": "OTTAndarBahar",
+    "legacy": false,
+    "redirect_to": "andarbahar"
+  },
+  "40": {
+    "name": "GoldenBalls",
+    "server_name": "GoldenBalls",
+    "legacy": false,
+    "redirect_to": "goldenballs"
+  },
+  "43": {
+    "name": "OneDayTeenPatti",
+    "server_name": "onedayteenpatti",
+    "legacy": false,
+    "redirect_to": "onedayteenpatti"
+  },
+  "45": {
+    "name": "CricketWar",
+    "server_name": "cricketwar",
+    "legacy": false,
+    "redirect_to": "cricketwar"
+  },
+  "46": {
+    "name": "blackjack_salon_prive",
+    "server_name": "BlackJackSalonPrive",
+    "legacy": false,
+    "redirect_to": "blackjack"
+  },
+  "47": {
+    "name": "DreamCatcherRetail",
+    "server_name": "dreamcatcher_retail",
+    "legacy": false,
+    "redirect_to": "dreamcatcher_retail"
+  },
+  "48": {
+    "name": "RNGRoulette",
+    "server_name": "RngRoulette",
+    "legacy": true,
+    "redirect_to": "rng_roulette"
+  },
+  "50": {
+    "name": "OneDayTeenPatti_BackAndLay",
+    "server_name": "onedayteenpatti_backandlay",
+    "legacy": false,
+    "redirect_to": "onedayteenpatti"
+  },
+  "51": {
+    "name": "blackjack_video_chat",
+    "server_name": "BlackJackVideoChat",
+    "legacy": false,
+    "redirect_to": "blackjack"
+  },
+  "52": {
+    "name": "sicbo_multipliers",
+    "server_name": "Sicbo",
+    "legacy": false,
+    "redirect_to": "sicbo"
+  },
+  "53": {
+    "name": "RussianPoker",
+    "server_name": "RussianPoker",
+    "legacy": false,
+    "redirect_to": "russianpoker"
+  },
+  "54": {
+    "name": "ultimate_roulette",
+    "server_name": "UltimateRoulette",
+    "legacy": false,
+    "redirect_to": "roulette"
+  },
+  "55": {
+    "name": "UltimateAndarBahar",
+    "server_name": "UltimateAndarBahar",
+    "legacy": false,
+    "redirect_to": "andarbahar"
+  }
+}

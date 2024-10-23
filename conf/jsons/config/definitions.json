@@ -1,0 +1,11 @@
+{
+  "SITE_BASE": "http://localhost:3000/",
+  "SERVER_SERVICES": "http://localhost:3000/server/services/",
+  "SERVER_URL_GAMES": "ws://localhost:3000/GameServer/roulette",
+  "SERVER_URL_TOPPER": "ws://localhost:3000/GameServer/topper",
+  "REMOTE_ADDR": "103.161.57.16",
+  "VIDEO_CDN_SERVICE": "http://localhost:3000/server/services/getStreams",
+  "OPERATOR_ASSETS": "http://localhost:3000/assets/CustomAssets/",
+  "DEALER_IMAGES": "https://recording.ezugicdn.com/Dealer-Images/Single/",
+  "VERSION": "0"
+}

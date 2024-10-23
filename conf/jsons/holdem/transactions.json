@@ -1,0 +1,273 @@
+[ {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER CREATION",
+  "playerIp" : "192.168.1.2",
+  "amount" : 10000,
+  "oldBalance" : 0,
+  "newBalance" : 0,
+  "timestamp" : "Tue, 14 Jun 2022 17:42:15.171 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER CREATION",
+  "playerIp" : "192.168.1.3",
+  "amount" : 10000,
+  "oldBalance" : 0,
+  "newBalance" : 0,
+  "timestamp" : "Tue, 14 Jun 2022 17:42:15.171 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER CREATION",
+  "playerIp" : "192.168.1.4",
+  "amount" : 10000,
+  "oldBalance" : 0,
+  "newBalance" : 0,
+  "timestamp" : "Tue, 14 Jun 2022 17:42:15.171 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER CREATION",
+  "playerIp" : "192.168.1.5",
+  "amount" : 10000,
+  "oldBalance" : 0,
+  "newBalance" : 0,
+  "timestamp" : "Tue, 14 Jun 2022 17:42:15.171 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER CREATION",
+  "playerIp" : "192.168.1.6",
+  "amount" : 10000,
+  "oldBalance" : 0,
+  "newBalance" : 0,
+  "timestamp" : "Tue, 14 Jun 2022 17:42:15.171 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER CREATION",
+  "playerIp" : "192.168.1.7",
+  "amount" : 10000,
+  "oldBalance" : 0,
+  "newBalance" : 0,
+  "timestamp" : "Tue, 14 Jun 2022 17:42:15.171 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER CREATION",
+  "playerIp" : "192.168.1.8",
+  "amount" : 10000,
+  "oldBalance" : 0,
+  "newBalance" : 0,
+  "timestamp" : "Tue, 14 Jun 2022 17:42:15.171 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER CREATION",
+  "playerIp" : "192.168.1.9",
+  "amount" : 10000,
+  "oldBalance" : 0,
+  "newBalance" : 0,
+  "timestamp" : "Tue, 14 Jun 2022 17:42:15.171 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_REQ",
+  "playerIp" : "192.168.1.9",
+  "amount" : 5000,
+  "oldBalance" : 10000,
+  "newBalance" : 10000,
+  "timestamp" : "Tue, 14 Jun 2022 18:29:46.092 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_SUCCESS",
+  "playerIp" : "192.168.1.9",
+  "amount" : 5000,
+  "oldBalance" : 10000,
+  "newBalance" : 15000,
+  "timestamp" : "Tue, 14 Jun 2022 18:29:46.094 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_REQ",
+  "playerIp" : "192.168.1.9",
+  "amount" : 1000,
+  "oldBalance" : 10000,
+  "newBalance" : 10000,
+  "timestamp" : "Wed, 15 Jun 2022 11:52:07.320 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_SUCCESS",
+  "playerIp" : "192.168.1.9",
+  "amount" : 1000,
+  "oldBalance" : 10000,
+  "newBalance" : 11000,
+  "timestamp" : "Wed, 15 Jun 2022 11:52:07.323 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_REQ",
+  "playerIp" : "192.168.1.9",
+  "amount" : 1000,
+  "oldBalance" : 10000,
+  "newBalance" : 10000,
+  "timestamp" : "Wed, 15 Jun 2022 12:00:52.840 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_SUCCESS",
+  "playerIp" : "192.168.1.9",
+  "amount" : 1000,
+  "oldBalance" : 10000,
+  "newBalance" : 11000,
+  "timestamp" : "Wed, 15 Jun 2022 12:00:52.844 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_REQ",
+  "playerIp" : "192.168.1.9",
+  "amount" : 500,
+  "oldBalance" : 10000,
+  "newBalance" : 10000,
+  "timestamp" : "Wed, 15 Jun 2022 12:04:20.987 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_SUCCESS",
+  "playerIp" : "192.168.1.9",
+  "amount" : 500,
+  "oldBalance" : 10000,
+  "newBalance" : 10500,
+  "timestamp" : "Wed, 15 Jun 2022 12:04:20.993 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_REQ",
+  "playerIp" : "192.168.1.9",
+  "amount" : 500,
+  "oldBalance" : 10000,
+  "newBalance" : 10000,
+  "timestamp" : "Wed, 15 Jun 2022 12:15:14.134 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_SUCCESS",
+  "playerIp" : "192.168.1.9",
+  "amount" : 500,
+  "oldBalance" : 10000,
+  "newBalance" : 10500,
+  "timestamp" : "Wed, 15 Jun 2022 12:15:14.137 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_REQ",
+  "playerIp" : "192.168.1.9",
+  "amount" : 10000,
+  "oldBalance" : 10000,
+  "newBalance" : 10000,
+  "timestamp" : "Wed, 15 Jun 2022 12:18:41.737 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_SUCCESS",
+  "playerIp" : "192.168.1.9",
+  "amount" : 10000,
+  "oldBalance" : 10000,
+  "newBalance" : 20000,
+  "timestamp" : "Wed, 15 Jun 2022 12:18:41.740 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_REQ",
+  "playerIp" : "192.168.1.9",
+  "amount" : 5000,
+  "oldBalance" : 10000,
+  "newBalance" : 10000,
+  "timestamp" : "Wed, 15 Jun 2022 12:23:07.389 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_SUCCESS",
+  "playerIp" : "192.168.1.9",
+  "amount" : 5000,
+  "oldBalance" : 10000,
+  "newBalance" : 15000,
+  "timestamp" : "Wed, 15 Jun 2022 12:23:07.391 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_REQ",
+  "playerIp" : "192.168.1.9",
+  "amount" : 50,
+  "oldBalance" : 10000,
+  "newBalance" : 10000,
+  "timestamp" : "Wed, 15 Jun 2022 12:26:08.130 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_SUCCESS",
+  "playerIp" : "192.168.1.9",
+  "amount" : 50,
+  "oldBalance" : 10000,
+  "newBalance" : 10050,
+  "timestamp" : "Wed, 15 Jun 2022 12:26:08.133 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_REQ",
+  "playerIp" : "192.168.1.9",
+  "amount" : 100000,
+  "oldBalance" : 10000,
+  "newBalance" : 10000,
+  "timestamp" : "Wed, 15 Jun 2022 12:30:42.827 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_SUCCESS",
+  "playerIp" : "192.168.1.9",
+  "amount" : 100000,
+  "oldBalance" : 10000,
+  "newBalance" : 110000,
+  "timestamp" : "Wed, 15 Jun 2022 12:30:42.830 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_REQ",
+  "playerIp" : "192.168.1.9",
+  "amount" : 5000,
+  "oldBalance" : 10000,
+  "newBalance" : 10000,
+  "timestamp" : "Wed, 15 Jun 2022 12:34:09.022 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_SUCCESS",
+  "playerIp" : "192.168.1.9",
+  "amount" : 5000,
+  "oldBalance" : 10000,
+  "newBalance" : 15000,
+  "timestamp" : "Wed, 15 Jun 2022 12:34:09.025 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_REQ",
+  "playerIp" : "192.168.1.9",
+  "amount" : 5000,
+  "oldBalance" : 10000,
+  "newBalance" : 10000,
+  "timestamp" : "Wed, 15 Jun 2022 12:36:35.833 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_SUCCESS",
+  "playerIp" : "192.168.1.9",
+  "amount" : 5000,
+  "oldBalance" : 10000,
+  "newBalance" : 15000,
+  "timestamp" : "Wed, 15 Jun 2022 12:36:35.836 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_REQ",
+  "playerIp" : "192.168.1.9",
+  "amount" : 10000,
+  "oldBalance" : 10000,
+  "newBalance" : 10000,
+  "timestamp" : "Wed, 15 Jun 2022 12:39:05.765 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_SUCCESS",
+  "playerIp" : "192.168.1.9",
+  "amount" : 10000,
+  "oldBalance" : 10000,
+  "newBalance" : 20000,
+  "timestamp" : "Wed, 15 Jun 2022 12:39:05.768 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_REQ",
+  "playerIp" : "192.168.1.9",
+  "amount" : 5000,
+  "oldBalance" : 10000,
+  "newBalance" : 10000,
+  "timestamp" : "Wed, 15 Jun 2022 12:47:41.339 IST"
+}, {
+  "transType" : "Cashier",
+  "messageType" : "PLAYER_MONEY_DEPOSIT_SUCCESS",
+  "playerIp" : "192.168.1.9",
+  "amount" : 5000,
+  "oldBalance" : 10000,
+  "newBalance" : 15000,
+  "timestamp" : "Wed, 15 Jun 2022 12:47:41.343 IST"
+} ]
